@@ -1,8 +1,5 @@
-Organization: Northwestern Polytechnical University
-
-Author: Fengmin Wua ,Sicong Liua, Bin Guoa, Xiaocheng Lia,Yuan Gaoa, Zhiwen Yua
-
-To appear at CSCAIoT 2024
+# 请科研君帮帮引用，引用格式：
+F. Wu, S. Liu, B. Guo, X. Li, Y. Gao and Z. Yu, "AdaFlow: Non-blocking Inference with Heterogeneous Multi-modal Mobile Sensor Data," 2024 IEEE Coupling of Sensing & Computing in AIoT Systems (CSCAIoT), Hong Kong, Hong Kong, 2024, pp. 8-9, doi: 10.1109/CSCAIoT62585.2024.00006. keywords: {Deep learning;Accuracy;Multi-modal;Affinity Matrix;Non-blocking Data Flow},
 
 [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10607768)
 # 问题
